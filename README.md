@@ -1,2 +1,2 @@
 # bookCloud
-Visual text analysis using WordCloud and NLTK
+Visual text analysis using WordCloud
